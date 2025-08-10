@@ -1,0 +1,23 @@
+Job_Title,Skills,Industry,Experience_Level,Job_Type,Location,Salary
+Data Analyst,"Python, Pandas, SQL, Excel, Data Visualization, Power BI",Analytics,Junior,On-site,Lahore,70000
+ML Engineer,"Python, TensorFlow, Scikit-learn, NumPy, Keras, MLflow",AI/ML,Mid,Remote,Islamabad,120000
+Web Developer,"HTML, CSS, JavaScript, React, Next.js, Tailwind CSS",Web Development,Junior,Hybrid,Karachi,80000
+AI Researcher,"Python, Transformers, Deep Learning, HuggingFace, Research",AI/ML,Senior,Remote,Remote,200000
+Software Engineer,"Python, Java, Git, Algorithms, OOP, REST APIs",Software,Mid,On-site,Lahore,100000
+DevOps Engineer,"Docker, Kubernetes, Jenkins, CI/CD, AWS, Terraform",Cloud,Senior,Remote,Karachi,150000
+Cloud Architect,"AWS, Azure, GCP, CloudFormation, Serverless, Kubernetes",Cloud,Senior,Remote,Islamabad,180000
+Data Scientist,"Python, SQL, Pandas, Machine Learning, Jupyter, StatsModels",Analytics,Mid,Hybrid,Lahore,130000
+NLP Engineer,"SpaCy, NLTK, BERT, Transformers, Text Classification, Python",AI/ML,Mid,Remote,Remote,140000
+Mobile App Developer,"Flutter, Dart, Android, Firebase, REST APIs",Mobile Development,Junior,Hybrid,Karachi,90000
+Cybersecurity Analyst,"Network Security, SIEM, Firewalls, Python, Ethical Hacking",Cybersecurity,Mid,On-site,Islamabad,110000
+Game Developer,"Unity, C#, Game Physics, Blender, 3D Modeling, Git",Game Development,Junior,On-site,Lahore,85000
+UI/UX Designer,"Figma, Adobe XD, Wireframing, Prototyping, UX Research",Design,Junior,Remote,Lahore,75000
+Computer Vision Engineer,"OpenCV, YOLO, PyTorch, Image Processing, Python",AI/ML,Mid,Remote,Remote,140000
+Robotics Engineer,"ROS, C++, LIDAR, SLAM, Embedded Systems",Robotics,Mid,On-site,Islamabad,125000
+Embedded Systems Engineer,"C, C++, Microcontrollers, RTOS, Assembly, UART, SPI",Hardware,Mid,On-site,Karachi,115000
+FPGA Engineer,"VHDL, Verilog, RTL Design, Digital Logic, SoC, Xilinx",Hardware,Senior,On-site,Lahore,135000
+IT Support Specialist,"Troubleshooting, Windows, Linux, Networking, Help Desk",IT,Junior,On-site,Lahore,60000
+System Administrator,"Linux, Shell Scripting, Servers, Backups, Monitoring",IT,Mid,On-site,Islamabad,95000
+Penetration Tester,"Metasploit, Burp Suite, Kali Linux, Python, Vulnerability Analysis",Cybersecurity,Senior,Remote,Remote,150000
+Network Engineer,"Routing, Switching, Firewalls, CCNA, Network Protocols",IT,Mid,On-site,Karachi,95000
+Microcontroller Developer,"C, Assembly, PIC, ARM Cortex, UART, SPI",Embedded Systems,Junior,On-site,Rawalpindi,85000
